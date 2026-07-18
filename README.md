@@ -14,9 +14,9 @@ Topics Covered So Far
 - Web development overview (frontend, backend, full-stack)
 
 Preview
-![Day 1 screenshot](./day-01/images/code.png)
-![Day 1 screenshot](./day-01/images/display-1.png)
-![Day 1 screenshot](./day-01/images/display-2.png)
+![Day 1 screenshot](./day1/images/code.png)
+![Day 1 screenshot](./day1/images/display%20-1.png)
+![Day 1 screenshot](./day1/images/display%20-2.png)
 
 Follow the Journey
 - Instagram: [@heyitssobya , @thebugmaker]

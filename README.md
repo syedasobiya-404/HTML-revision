@@ -7,7 +7,7 @@ Progress Log
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1 | What is Web Development? | [day-01](./day-01) |
+| 1 | What is Web Development? | [Day 1](./day1) |
 
 
 Topics Covered So Far

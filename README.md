@@ -13,10 +13,16 @@ Progress Log
 Topics Covered So Far
 - Web development overview (frontend, backend, full-stack)
 
-Preview
-![Day 1 screenshot](./day1/images/code.png)
-![Day 1 screenshot](./day1/images/display%20-1.png)
-![Day 1 screenshot](./day1/images/display%20-2.png)
+<h2>Preview</h2>
+<p align="center">
+  <img src="./day1/images/code.png" width="450" alt="Code Screenshot">
+</p>
+<p align="center">
+  <img src="./day1/images/display-1.png" width="450" alt="Browser Output">
+</p>
+<p align="center">
+  <img src="./day1/images/display-2.png" width="450" alt="Browser Output">
+</p>
 
 Follow the Journey
 - Instagram: [@heyitssobya , @thebugmaker]

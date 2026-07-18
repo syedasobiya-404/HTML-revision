@@ -14,14 +14,14 @@ Topics Covered So Far
 - Web development overview (frontend, backend, full-stack)
 
 <h2>Preview</h2>
-<span
-  <img src="./day1/images/code.png" width="450" alt="Code Screenshot">
+<span>
+  <img src="./day1/images/code.png" width="400" alt="Code Screenshot">
 </span>
 <span>
-  <img src="./day1/images/display%20-1.png" width="450" alt="Browser Output">
+  <img src="./day1/images/display%20-1.png" width="400" alt="Browser Output">
 </span>
 <span>
-  <img src="./day1/images/display%20-2.png" width="450" alt="Browser Output">
+  <img src="./day1/images/display%20-2.png" width="400" alt="Browser Output">
 </span>
 
 Follow the Journey
